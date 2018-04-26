@@ -1,0 +1,12 @@
+D:\FUENTES\ecommerce-help\ecommerce-help\bin\Debug\ecommerce-help.exe.config
+D:\FUENTES\ecommerce-help\ecommerce-help\bin\Debug\ecommerce-help.exe
+D:\FUENTES\ecommerce-help\ecommerce-help\bin\Debug\ecommerce-help.pdb
+D:\FUENTES\ecommerce-help\ecommerce-help\bin\Debug\Renci.SshNet.dll
+D:\FUENTES\ecommerce-help\ecommerce-help\bin\Debug\Renci.SshNet.xml
+D:\FUENTES\ecommerce-help\ecommerce-help\obj\Debug\ecommerce-help.csprojResolveAssemblyReference.cache
+D:\FUENTES\ecommerce-help\ecommerce-help\obj\Debug\ecommerce_help.Properties.Resources.resources
+D:\FUENTES\ecommerce-help\ecommerce-help\obj\Debug\ecommerce-help.csproj.GenerateResource.Cache
+D:\FUENTES\ecommerce-help\ecommerce-help\obj\Debug\ecommerce-help.exe
+D:\FUENTES\ecommerce-help\ecommerce-help\obj\Debug\ecommerce-help.pdb
+D:\FUENTES\ecommerce-help\ecommerce-help\obj\Debug\ecommerce_help.frmMain.resources
+D:\FUENTES\ecommerce-help\ecommerce-help\obj\Debug\ecommerce_help.frmResponse.resources
