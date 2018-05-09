@@ -320,13 +320,16 @@ namespace ecommerce_help
 
         private void btnDelete_Click(object sender, EventArgs e)
         {
-            DataGridViewRow item = dgvSKU.SelectedRows[0];
-            int ix = item.Index;
-            if (ix >= 0)
-            {
-                dgvSKU.Rows.RemoveAt(ix);
-                _sku.RemoveAt(ix);
-            }            
+            if (dgvSKU.SelectedRows.Count > 0)
+            { 
+                DataGridViewRow item = dgvSKU.SelectedRows[0];
+                int ix = item.Index;
+                if (ix >= 0)
+                {
+                    dgvSKU.Rows.RemoveAt(ix);
+                    _sku.RemoveAt(ix);
+                }
+            }
         }
 
         private void dgvSKU_CellContentClick(object sender, DataGridViewCellEventArgs e)
