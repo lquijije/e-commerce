@@ -243,7 +243,10 @@ namespace ecommerce_help
             }catch
             {}
 
-            this.cnn = null;
+            this.cnn = new SqlConnection();
+
+
+
         }
     }
 }
